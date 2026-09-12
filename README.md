@@ -2,26 +2,25 @@
 
 
 
-# [Project Name] 🎯
+# Ludo Junction 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Pattikkoodu]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Vignesh sashidharan
+- Sravan vishnu P
 
 ### Project Description
-[2-3 lines about what your project does]
+[A ludo app that never install]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem
+Having some extra time.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution 
+making you waste your time
 
 ## Technical Details
 ### Technologies/Components Used
